@@ -27,4 +27,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruphas-Mafahl-XD&theme=dark" alt="Ruphas-Mafahl-XD" /></p>
 
 <h1 align="center">My Wife💜❤️</h1>
-<p>img align="centees.
+
