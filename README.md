@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Ruphas Mafahl😎</h1>
 <h3 align="center">A perecode with his skills💮</h3>
 
@@ -24,3 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruphas-Mafahl-XD&show_icons=true&theme=tokyonight&locale=en" alt="Ruphas-Mafahl-XD" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruphas-Mafahl-XD&theme=dark" alt="Ruphas-Mafahl-XD" /></p>
+
+<h1 align="center">My Wife💜❤️</h1>
+<p>img align="centees.
