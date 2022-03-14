@@ -1,3 +1,4 @@
+![0d91a1eee531edb9b57b5b8c80203c37](https://user-images.githubusercontent.com/94946818/158147491-103e04d4-c3b5-40c8-a1d3-1a0093840d6f.jpg)
 
 <h1 align="center">Hi 👋, I'm Ruphas Mafahl😎</h1>
 <h3 align="center">A perecode with his skills💮</h3>
@@ -26,5 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruphas-Mafahl-XD&theme=dark" alt="Ruphas-Mafahl-XD" /></p>
 
-<h1 align="center">My Wife💜❤️</h1>
+
 
