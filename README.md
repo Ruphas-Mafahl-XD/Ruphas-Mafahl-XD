@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ruphas Mafahl</h1>
-<h3 align="center">A perecode with his skills</h3>
+<h1 align="center">Hi 👋, I'm Ruphas Mafahl😎</h1>
+<h3 align="center">A perecode with his skills💮</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ruphas-Mafahl-XD&label=Profile%20views&color=00ff00&style=plastic" alt="Ruphas-Mafahl-XD" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ruphas-Mafahl-XD" alt="Ruphas-Mafahl-XD" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, Python and PHP**
+- 💜 I’m currently learning **Javascript, Python and PHP**
 
-- 📫 How to reach me **aryalovesiesta@hotmail.com**
+- 🔱 How to reach me **aryalovesiesta@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
