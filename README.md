@@ -104,6 +104,11 @@
 
 ![93460932_p0](https://user-images.githubusercontent.com/94946818/160674941-28b8d31b-42c4-4d13-a0f9-3634d115eda4.jpg)
 
+- **Cantik Banget Ya Allah💚😘**
+
+![91500736_p0-picsay](https://user-images.githubusercontent.com/94946818/160675495-b833603b-ea47-4a1b-9e09-6f1dfdd1c0a4.png)
+
+- **Siesta Kadal WANGYY**
 
 ------
 ------
