@@ -1,11 +1,16 @@
 
-<h1 align="center">Hi 👋, I'm Ruphas Mafahl😎</h1>
-- Istri Ke 2 Gweh🥵
+<h1 align="center">Halo 👋, Saya Ruphas Mafahl😎</h1>
+- Istri Gweh🥵
+
 <img src="https://user-images.githubusercontent.com/94946818/160537829-631f3dcc-1ea1-48ad-942b-0802b72a7223.png" width=1000>
+
+- Mau Segs Brutal💜❤️
+<img src="https://user-images.githubusercontent.com/94946818/160547699-81b03339-f24f-4fc5-925f-013bb9e06070.jpg" width=1000>
 
 <h1 align="center">Bini Gweh❤️😻</h1>
 
-<h3 align="center">A perecode with his skills💮</h3>
+<h3 align="center">Hanya seorang perecode🍎</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ruphas-Mafahl-XD&label=Profile%20views&color=00ff00&style=plastic" alt="Ruphas-Mafahl-XD" /> </p>
 
