@@ -49,7 +49,7 @@
 <a href="https://fb.com/AryaTrickers2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AryaTrickers2020" height="30" width="40" /></a>
 <a href="https://instagram.com/mizari.rhein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mizari.rhein" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UCzEhsJYu90gM5A8lmv1axYQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCzEhsJYu90gM5A8lmv1axYQ" height="30" width="40" /></a>
-<a href="https://wa.me/6289694295787&text=Halo+Bang+Arya🗿" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="6289694295787" height="30" width="40" /></a>
+<a href="https://wa.me/6289694295787?text=Halo+Bang+Arya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="6289694295787" height="30" width="40" /></a>
 <a href="https://www.messenger.com/AryaTrickers2020"><img height="30" width="40" src="https://camo.githubusercontent.com/0b9b5efe8bd5edcdaec78496cf9ddaf6d98cd2b2574e23d5deca0b5e7eae583a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d657373656e6765722e737667"></a>
 
 <h3 align="left">Donasi💰</h3>
