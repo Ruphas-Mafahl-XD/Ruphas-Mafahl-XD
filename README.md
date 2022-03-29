@@ -93,7 +93,7 @@
 <p><img align"left" src="https://activity-graph.herokuapp.com/graph?username=Ruphas-Mafahl-XD&custom_title=Ruphas%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev"
 </p>
 
-&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=37&multiline=true&width=1000&height=300&lines=TERIMA+KASIH+KARENA+SUDAH+MAMPIR;JANGAN+LUPA+FOLLOW+DAN+KASIH+STAR+YA:))](https://git.io/typing-svg)
+&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=37&multiline=true&width=1000&height=300&lines=TERIMA+KASIH+KARENA+SUDAH+MAMPIR;JANGAN+LUPA+FOLLOW+DAN+KASIH+STAR+NYA;SEMOGA+TOOLS+YANG+DISEDIAKAN+DISINI;BERMANFAAT+UNTUK+KALIAN+SEMUA;SEE+YOU.....BYE+BYE👋🏻)](https://git.io/typing-svg)
 <h1 align="center">Pemanis Banh🥵</h1>
 
 - **Uwogghh Seggs🍓**
