@@ -114,5 +114,8 @@
 
 - **Nee-San🥵*
 
+![80035871_p0](https://user-images.githubusercontent.com/94946818/160676477-4a8a6239-7fd1-4cd8-8f5e-763b3f0bf981.jpg)
+
+- **Izin Off, Ereksi Berat☝️😔**
 ------
 ------
