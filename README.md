@@ -81,6 +81,7 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 </p>
+
 <h1 align="center">Statistik🌟</h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruphas-Mafahl-XD&show_icons=true&theme=tokyonight&locale=en" alt="Ruphas-Mafahl-XD" /></p>
 
@@ -92,8 +93,9 @@
 <p><img align"left" src="https://activity-graph.herokuapp.com/graph?username=Ruphas-Mafahl-XD&custom_title=Ruphas%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev"
 </p>
 
-&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=35&multiline=true&width=1000&height=300&lines=KALAU+MAMPIR+JGN+LUPA+FOLLOW+GITHUB+GW+YA+MANIEZ!)](https://git.io/typing-svg)
-- **Pemanis🍓**
+&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=37&multiline=true&width=1000&height=300&lines=KALAU+MAMPIR+JGN+LUPA+FOLLOW+GITHUB+GW+COK!)](https://git.io/typing-svg)
+<h1 align="center">Pemanis Banh🥵</h1>
+- **Uwoghh Seggs🍓**
 
 ------
 ------
