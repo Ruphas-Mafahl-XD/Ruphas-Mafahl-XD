@@ -7,7 +7,8 @@
 - Mau Segs Brutal💜❤️
 <img src="https://user-images.githubusercontent.com/94946818/160547699-81b03339-f24f-4fc5-925f-013bb9e06070.jpg" width=1000>
 
-<h1 align="center">Bini Gweh❤️😻</h1>
+<h1 align="center">Istriku,Belahan Jiwa Dan Hidupku❤️😻</h1>
+<img src="https://user-images.githubusercontent.com/94946818/160548902-aeb43cf5-f80d-4675-939f-3bd5f56c04c1.jpg" width=1000>
 
 <h3 align="center">Hanya seorang perecode🍎</h3>
 
