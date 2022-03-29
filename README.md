@@ -1,7 +1,8 @@
 <h1 align="center">Halo 👋, Saya Ruphas Mafahl😎</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=HOBBY+NGOCOK;WIBU+STRESS+DOYAN+HALU;HENGKER+FREEFIRE+ABIEZ;HOBBY+BACA+MANGA;DAN+NONTON+ANIME;ATTACKER+EXPLOIT+HAXOR;RAJA+BY+ONE+FREEFIRE&center=true&width=500&height=50"></a>
+  <a href="https://t.me/zYxDx"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Pengen+Jadi+Hacker+Makk.;Suka+Nonton+Anime+Dan+Baca+Manga.;Nyari+Lawan+By1+FF+Yang+Keras." alt="Apa Kontol?"></a>
+</p>
 
 - **Istri Gweh🥵**
 
@@ -19,20 +20,23 @@
 
 <img src="https://user-images.githubusercontent.com/94946818/160630022-cb3e7e1c-ee69-45d8-8000-d4c0f8ab467c.jpg" width=1000>
 
-<h3 align="center">Hanya seorang perecode🍎</h3>
+<h3 align="center">Hanya seorang perecode biasa🍎</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ruphas-Mafahl-XD&label=Profile%20views&color=00ff00&style=plastic" alt="Ruphas-Mafahl-XD" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ruphas-Mafahl-XD&color=blue&style=floet-square&label=Profile+Views" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/Ruphas-Mafahl-XD?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
+</p>
 <p align="center"> <img title="Leviathan" src="https://img.shields.io/badge/Muhammad Arya Adinata -black?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 ![91450875_p0](https://user-images.githubusercontent.com/94946818/160673041-20533468-1b2d-4cc4-919a-4f99a4cbbd84.jpg)
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ruphas-Mafahl-XD" alt="Ruphas-Mafahl-XD" /></a> </p>
+- **Trofi🏆**
 
 <p align="center">
   <img width="auto" height="auto" src='https://github-profile-trophy.vercel.app/?username=Ruphas-Mafahl-XD&theme=tokyonight&row=1&column=5&no-frame=true'
 </p>
+
+- **About Me🔥:**
 
 - 👨🏻My name is **Muhammad Arya Adinata**
 
@@ -46,7 +50,7 @@
 </p>
 
 ------
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Media💎</h3>
 <p align="left">
 <a href="https://www.github.com/Ruphas-Mafahl-XD"><img height="30" width="40" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"></a>
 <a href="https://fb.com/AryaTrickers2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AryaTrickers2020" height="30" width="40" /></a>
@@ -59,7 +63,7 @@
 * Donasi saya  <a href="https://saweria.co/AryaAdinata">DISINI!</a>
 , Atau saya akan menjamsut anda💀
 
-<h3 align="left">Languages ​​and Tools:</h3>
+<h3 align="left">Languages ​​and Tools🔬</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -78,20 +82,43 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+
+![Railway](https://img.shields.io/badge/-Railway-222222?style=flat&logo=railway&logoColor=white)
+![Github](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat&logo=heroku&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-222222?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-222222?style=flat&logo=netlify&logoColor=white)
+
+![Linux](https://img.shields.io/badge/OS-Linux-blue?&logo=Linux)
+![Windows](https://img.shields.io/badge/OS-Windows-blue?&logo=Windows)
+
+![MySQL](https://img.shields.io/badge/MySQL-white?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?&logo=PostgreSQL)
+![Redis](https://img.shields.io/badge/Redis-white?&logo=Redis)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?&logo=MongoDB)
+![MariaDB](https://img.shields.io/badge/MariaDB-white?&logo=MariaDB&logoColor=black)
 </p>
 
+------
+
 <h1 align="center">Statistik🌟</h1>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruphas-Mafahl-XD&show_icons=true&theme=tokyonight&locale=en" alt="Ruphas-Mafahl-XD" /></p>
+
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ruphas-Mafahl-XD&theme=tokyonight" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruphas-Mafahl-XD&theme=tokyonight" alt="Ruphas-Mafahl-XD" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruphas-Mafahl-XD&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Ruphas-Mafahl-XD" /></p>
-
-
-<p><img align"left" src="https://activity-graph.herokuapp.com/graph?username=Ruphas-Mafahl-XD&custom_title=Ruphas%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev"
 </p>
+
+<details open>
+<summary><b>Cute visitor count</b></summary>
+<br>
+<a href="https://t.me/Yoga_CIC"><img alt="Cute Count" src="https://count.getloli.com/get/@yoga?theme=rule34" /></a>
+</details>
 
 &nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=37&multiline=true&width=1000&height=300&lines=TERIMA+KASIH+KARENA+SUDAH+MAMPIR;JANGAN+LUPA+FOLLOW+DAN+KASIH+STAR+NYA;SEMOGA+TOOLS+YANG+DISEDIAKAN+DISINI;BERMANFAAT+UNTUK+KALIAN+SEMUA;SEE+YOU.....BYE+BYE👋🏻)](https://git.io/typing-svg)
 <h1 align="center">Pemanis Banh🥵</h1>
