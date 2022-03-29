@@ -95,6 +95,7 @@
 
 &nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=37&multiline=true&width=1000&height=300&lines=KALAU+MAMPIR+JGN+LUPA+FOLLOW+GITHUB+GW+COK!)](https://git.io/typing-svg)
 <h1 align="center">Pemanis Banh🥵</h1>
+
 - **Uwoghh Seggs🍓**
 
 ------
