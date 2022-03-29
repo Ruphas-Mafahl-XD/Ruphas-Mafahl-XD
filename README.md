@@ -10,7 +10,10 @@
 <h1 align="center">Istriku,Belahan Jiwa Dan Hidupku❤️😻</h1>
 <img src="https://user-images.githubusercontent.com/94946818/160548902-aeb43cf5-f80d-4675-939f-3bd5f56c04c1.jpg" width=1000>
 
-<h3 align="center">Hanya seorang perecode🍎</h3>
+<h1 align="center">Selir💙</h1>
+- Siesta Chicken Nugget😇
+
+<h3 align="center">Hanya seorang perecode handal🍎</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ruphas-Mafahl-XD&label=Profile%20views&color=00ff00&style=plastic" alt="Ruphas-Mafahl-XD" /> </p>
@@ -26,6 +29,7 @@
 <a href="https://fb.com/AryaTrickers2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AryaTrickers2020" height="30" width="40" /></a>
 <a href="https://instagram.com/mizari.rhein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mizari.rhein" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UCzEhsJYu90gM5A8lmv1axYQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCzEhsJYu90gM5A8lmv1axYQ" height="30" width="40" /></a>
+<a href="https://wa.me/6289694295787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="6289694295787" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,4 +46,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruphas-Mafahl-XD&theme=dark" alt="Ruphas-Mafahl-XD" /></p>
 
 
+<div align="center" width="50"> 
+</div>
 
+&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=40&multiline=true&width=970&height=300&lines=TERIMA+KASIH+KARENA+SUDAH+MAMPIR+KE+AKUN!)](https://git.io/typing-svg)
