@@ -1,3 +1,4 @@
+![Siesta (Tantei wa Mou Shindeiru) full 3441760](https://user-images.githubusercontent.com/94946818/160630022-cb3e7e1c-ee69-45d8-8000-d4c0f8ab467c.jpg)
 
 <h1 align="center">Halo 👋, Saya Ruphas Mafahl😎</h1>
 - Istri Gweh🥵
