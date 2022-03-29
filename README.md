@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Ruphas Mafahl😎</h1>
-- Selir Gwejh
+- Istri Ke 2 Gweh🥵
 <img src="https://user-images.githubusercontent.com/94946818/160537829-631f3dcc-1ea1-48ad-942b-0802b72a7223.png" width=1000>
 
-<h1 align="center">Bini Gwejh❤️😻</h1>
+<h1 align="center">Bini Gweh❤️😻</h1>
 
 <h3 align="center">A perecode with his skills💮</h3>
 
@@ -26,6 +26,10 @@
 <p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruphas-Mafahl-XD&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Ruphas-Mafahl-XD" /></p>
+<p align="center">
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruphas-Mafahl-XD&layout=compact" alt="Top language
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruphas-Mafahl-XD&show_icons=true&theme=tokyonight&locale=en" alt="Ruphas-Mafahl-XD" /></p>
 
