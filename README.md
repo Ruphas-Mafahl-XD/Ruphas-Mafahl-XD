@@ -1,7 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Ruphas Mafahl😎</h1>
+- Selir Gwejh
+<img src="https://user-images.githubusercontent.com/94946818/160537829-631f3dcc-1ea1-48ad-942b-0802b72a7223.png" width=1000>
 
-
-
+<h1 align="center">Bini Gwejh❤️😻</h1>
 
 <h3 align="center">A perecode with his skills💮</h3>
 
