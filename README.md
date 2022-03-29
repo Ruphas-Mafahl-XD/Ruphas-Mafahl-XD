@@ -14,7 +14,9 @@
 <img src="https://user-images.githubusercontent.com/94946818/160548902-aeb43cf5-f80d-4675-939f-3bd5f56c04c1.jpg" width=1000>
 
 <h1 align="center">Selir💙</h1>
-- **Siesta Chicken Nugget😇**
+
+- **Siesta Chicken Nugget**😇
+
 <img src="https://user-images.githubusercontent.com/94946818/160630022-cb3e7e1c-ee69-45d8-8000-d4c0f8ab467c.jpg" width=1000>
 
 <h3 align="center">Hanya seorang perecode handal🍎</h3>
