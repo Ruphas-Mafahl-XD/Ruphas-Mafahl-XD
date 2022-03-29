@@ -13,7 +13,7 @@
 <h1 align="center">Istriku,Belahan Jiwa Dan Hidupku❤️😻</h1>
 <img src="https://user-images.githubusercontent.com/94946818/160548902-aeb43cf5-f80d-4675-939f-3bd5f56c04c1.jpg" width=1000>
 
-<h1 align="center">Selir💙</h1>
+<h1 align="center">Bini Ke-2💙😘</h1>
 
 - **Siesta Chicken Nugget**😇
 
