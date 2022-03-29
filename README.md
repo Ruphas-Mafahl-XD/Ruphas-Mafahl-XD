@@ -25,6 +25,9 @@
 <p align="center"> <img title="Leviathan" src="https://img.shields.io/badge/Muhammad Arya Adinata -black?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
+![91450875_p0](https://user-images.githubusercontent.com/94946818/160673041-20533468-1b2d-4cc4-919a-4f99a4cbbd84.jpg)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ruphas-Mafahl-XD" alt="Ruphas-Mafahl-XD" /></a> </p>
 
 <p align="center">
