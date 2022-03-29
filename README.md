@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ruphas-Mafahl-XD" alt="Ruphas-Mafahl-XD" /></a> </p>
 
-- 💜 I’m currently learning **Javascript, Python and PHP**
+- 💜 I’m currently learning **Javascript, HTML, Bash, Python and PHP**
 
 - 🔱 How to reach me **aryalovesiesta@hotmail.com**
 
