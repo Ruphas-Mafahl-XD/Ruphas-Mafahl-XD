@@ -19,7 +19,7 @@
 
 <img src="https://user-images.githubusercontent.com/94946818/160630022-cb3e7e1c-ee69-45d8-8000-d4c0f8ab467c.jpg" width=1000>
 
-<h3 align="center">Hanya seorang perecode handal🍎</h3>
+<h3 align="center">Hanya seorang perecode🍎</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ruphas-Mafahl-XD&label=Profile%20views&color=00ff00&style=plastic" alt="Ruphas-Mafahl-XD" /> </p>
 <p align="center"> <img title="Leviathan" src="https://img.shields.io/badge/Muhammad Arya Adinata -black?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -93,7 +93,7 @@
 <p><img align"left" src="https://activity-graph.herokuapp.com/graph?username=Ruphas-Mafahl-XD&custom_title=Ruphas%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev"
 </p>
 
-&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=37&multiline=true&width=1000&height=300&lines=KALAU+MAMPIR+JGN+LUPA+FOLLOW+GITHUB+GW+COK!)](https://git.io/typing-svg)
+&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=37&multiline=true&width=1000&height=300&lines=TERIMA+KASIH+KARENA+SUDAH+MAMPIR;JANGAN+LUPA+FOLLOW+DAN+KASIH+STAR+YA:))](https://git.io/typing-svg)
 <h1 align="center">Pemanis Banh🥵</h1>
 
 - **Uwogghh Seggs🍓**
