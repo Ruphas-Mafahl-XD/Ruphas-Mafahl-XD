@@ -2,6 +2,8 @@
 <a href="https://github.com/Ruphas-Mafahl-XD"><img src="https://cardivo.vercel.app/api?name=Ruphas-Mafahl-XD&description=Halo,%20Saya%20Arya%20dan%20saya%20hanyalah%20programmer%20biasa%20Senang%20bertemu%20dengan%20anda%20👋&image=https://user-images.githubusercontent.com/94946818/160676477-4a8a6239-7fd1-4cd8-8f5e-763b3f0bf981.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@mizari.rhein&github=Ruphas-Mafahl-XD&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
+![86556928_p0](https://user-images.githubusercontent.com/94946818/160768210-65dbc87b-00e4-4968-a696-4955c176e6ed.png)
+
 <p align="center">
   <a href="https://t.me/zYxDx"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Pengen+Jadi+Hacker+Makk.;Suka+Nonton+Anime+Dan+Baca+Manga.;Nyari+Lawan+By1+FF+Yang+Keras." alt="Apa Kontol?"></a>
 </p>
