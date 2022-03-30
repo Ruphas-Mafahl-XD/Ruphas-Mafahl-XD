@@ -147,6 +147,9 @@
 
 <p><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
+<p><img align="center" src="https://github.com/elisalvsan/elisalvsan/blob/output/github-contribution-grid-snake.svg"
+  </div>
+
 <details open>
 <summary><b>Cute visitor count</b></summary>
 <br>
