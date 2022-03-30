@@ -1,8 +1,6 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">Hallo, Saya Ruphas Mafahl <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://www.gambaranimasi.org/data/media/1904/animasi-bergerak-smiley-kacamata-hitam-0109.gif" width="23px">
-<a href="https://github.com/Ruphas-Mafahl-XD"><img src="https://cardivo.vercel.app/api?name=Ruphas-Mafahl-XD&description=Halo,%20Saya%20Arya%20dan%20saya%20hanyalah%20programmer%20biasa%20Senang%20bertemu%20dengan%20anda%20👋&image=https://user-images.githubusercontent.com/94946818/160676477-4a8a6239-7fd1-4cd8-8f5e-763b3f0bf981.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@mizari.rhein&github=Ruphas-Mafahl-XD&pattern=leaf&colorPattern=%23eaeaea" /><a>
+<a href="https://github.com/Ruphas-Mafahl-XD"><img src="https://cardivo.vercel.app/api?name=Ruphas-Mafahl-XD&description=Halo,%20Saya%20Arya%20dan%20saya%20hanyalah%20programmer%20biasa%20Senang%20bertemu%20dengan%20anda%20👋&image=https://user-images.githubusercontent.com/94946818/160768210-65dbc87b-00e4-4968-a696-4955c176e6ed.png&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@mizari.rhein&github=Ruphas-Mafahl-XD&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
-
-![86556928_p0](https://user-images.githubusercontent.com/94946818/160768210-65dbc87b-00e4-4968-a696-4955c176e6ed.png)
 
 <p align="center">
   <a href="https://t.me/zYxDx"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Pengen+Jadi+Hacker+Makk.;Suka+Nonton+Anime+Dan+Baca+Manga.;Nyari+Lawan+By1+FF+Yang+Keras." alt="Apa Kontol?"></a>
@@ -43,19 +41,19 @@
 
 - **About Me🔥:**
 
-- 👨🏻My name is **Muhammad Arya Adinata**
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> My name is **Muhammad Arya Adinata**
 
-- 👨🏻‍💻I am a **recorder** not a programmer
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I am a **recorder** not a programmer
 
-- 🌚I like **Anime, Manga, VN and Light Novels**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> I like **Anime, Manga, VN and Light Novels**
 
-- 💜 I’m currently learning **Javascript, HTML, Bash, Python and PHP**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m currently learning **Javascript, HTML, Bash, Python and PHP**
 
-- 🔱 How to reach me **aryalovesiesta@hotmail.com**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> How to reach me **aryalovesiesta@hotmail.com**
 </p>
 
 ------
-<h3 align="left">Social Media💎</h3>
+<h3 align="left">Contact Me☎️</h3>
 <p align="left">
 <a href="https://www.github.com/Ruphas-Mafahl-XD"><img height="30" width="40" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"></a>
 <a href="https://fb.com/AryaTrickers2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AryaTrickers2020" height="30" width="40" /></a>
