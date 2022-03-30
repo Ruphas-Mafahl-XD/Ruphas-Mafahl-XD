@@ -1,4 +1,6 @@
-<h1 align="center">Halo 👋, Saya Ruphas Mafahl😎</h1>
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">Hallo, Saya Ruphas Mafahl <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://www.gambaranimasi.org/data/media/1904/animasi-bergerak-smiley-kacamata-hitam-0109.gif" width="23px">
+<a href="https://github.com/Ruphas-Mafahl-XD"><img src="https://cardivo.vercel.app/api?name=Ruphas-Mafahl-XD&description=Halo,%20Saya%20Arya%20dan%20saya%20hanyalah%20programmer%20biasa%20Senang%20bertemu%20dengan%20anda%20👋&image=https://i.ibb.co/3cmzk8g/celyn.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@mizari.rhein&github=Ruphas-Mafahl-XD&pattern=leaf&colorPattern=%23eaeaea" /><a>
+</p>
 
 <p align="center">
   <a href="https://t.me/zYxDx"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Pengen+Jadi+Hacker+Makk.;Suka+Nonton+Anime+Dan+Baca+Manga.;Nyari+Lawan+By1+FF+Yang+Keras." alt="Apa Kontol?"></a>
@@ -24,6 +26,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ruphas-Mafahl-XD&color=blue&style=floet-square&label=Profile+Views" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/Ruphas-Mafahl-XD?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
+<p align="center"><img src="https://profile-counter.glitch.me/{Ruphas-Mafahl-XD}/count.svg" alt="dhyZx :: Visitor's Count" /></p>
 </p>
 <p align="center"> <img title="Leviathan" src="https://img.shields.io/badge/Muhammad Arya Adinata -black?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -111,8 +114,38 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruphas-Mafahl-XD&theme=tokyonight" alt="Ruphas-Mafahl-XD" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruphas-Mafahl-XD&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Ruphas-Mafahl-XD" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruphas-Mafahl-XD&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Ruphas-Mafahl-XD" /></p>
+
+<p><img  align="center" src="https://activity-graph.herokuapp.com/graph?username=Ruphas-Mafahl-XD&theme=react-dark" alt="drawing" width="800"/>
 </p>
+
+<h4 align="center"><i>"Software is a great combination between artistry and engineering." - Bill Gates</i></h4>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=80:ff0000,100:FA3D11&height=10" width="255">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=80:ff0000,100:FA3D11&height=10&reversal=true" width="255">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA0E09&height=8" width="218">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA0E09&height=8&reversal=true" width="218">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA0E09&height=6" width="140">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA0E09&height=6&reversal=true" width="140">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3BC8BA,10:22A8D2,30:22A8D2,50:00BCF2,70:54BBC8,90:05aa9d,100:01786E&height=150&section=footer&text=🐬&fontAlignY=32&descAlignY=77&animation=twinkling&desc=🐡             🐟                          🐠      "/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3BC8BA00,10:3BC8BA,30:22A8D2,70:54BBC8,90:04f9e5,100:01786E00&height=1&section=footer" width="700">
+</p>
+<img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=10:CF00F300,55:F70000,85:FA7600,100:FBFC07,&height=795" width="150">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F70000,14:FA7600,28:FBFC07,42:13DC17,56:00D0FE,70:0270FC,84:CF00F3,100:CF00F300&height=20" width="660">
+<h2 align="left">Random quote or fun fact:</h2>
+<p>
+  <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
+  <!--STARTS_HERE_QUOTE_README-->
+<i>❝According to statista, by 2023, over 50 billion devices will be connected on the internet.❞</i>
+<!--ENDS_HERE_QUOTE_README-->
+  </a>
+
+<br>
+<p><img align="center" src="https://i.imgur.com/2Lja89L.gif" width="300" align="left">
+
+<p><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
 <details open>
 <summary><b>Cute visitor count</b></summary>
