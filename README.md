@@ -1,5 +1,5 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">Hallo, Saya Ruphas Mafahl <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://www.gambaranimasi.org/data/media/1904/animasi-bergerak-smiley-kacamata-hitam-0109.gif" width="23px">
-<a href="https://github.com/Ruphas-Mafahl-XD"><img src="https://cardivo.vercel.app/api?name=Ruphas-Mafahl-XD&description=Halo,%20Saya%20Arya%20dan%20saya%20hanyalah%20programmer%20biasa%20Senang%20bertemu%20dengan%20anda%20👋&image=https://i.ibb.co/3cmzk8g/celyn.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@mizari.rhein&github=Ruphas-Mafahl-XD&pattern=leaf&colorPattern=%23eaeaea" /><a>
+<a href="https://github.com/Ruphas-Mafahl-XD"><img src="https://cardivo.vercel.app/api?name=Ruphas-Mafahl-XD&description=Halo,%20Saya%20Arya%20dan%20saya%20hanyalah%20programmer%20biasa%20Senang%20bertemu%20dengan%20anda%20👋&image=https://user-images.githubusercontent.com/94946818/160676477-4a8a6239-7fd1-4cd8-8f5e-763b3f0bf981.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@mizari.rhein&github=Ruphas-Mafahl-XD&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
 <p align="center">
@@ -27,8 +27,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ruphas-Mafahl-XD&color=blue&style=floet-square&label=Profile+Views" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/Ruphas-Mafahl-XD?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
 <p align="center"><img src="https://profile-counter.glitch.me/{Ruphas-Mafahl-XD}/count.svg" alt="dhyZx :: Visitor's Count" /></p>
-</p>
 <p align="center"> <img title="Leviathan" src="https://img.shields.io/badge/Muhammad Arya Adinata -black?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<p align="center"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-72%20Billion%20lines%20of%20code-blue"
 </p>
 
 ![91450875_p0](https://user-images.githubusercontent.com/94946818/160673041-20533468-1b2d-4cc4-919a-4f99a4cbbd84.jpg)
