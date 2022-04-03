@@ -156,6 +156,29 @@
 <a href="https://t.me/Yoga_CIC"><img alt="Cute Count" src="https://count.getloli.com/get/@yoga?theme=rule34" /></a>
 </details>
 
+
+## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
+<details>
+<!-- anilist_start-->
+ • <a href="https://anilist.co/anime/21382">Rewrite<a><br>
+ • <a href="https://anilist.co/anime/97665">Rewrite 2nd Season<a><br>
+ • <a href="https://anilist.co/anime/15583">Date A Live<a><br>
+ • <a href="https://anilist.co/anime/19815">No Game No Life<a><br>
+ • <a href="https://anilist.co/anime/21875">No Game No Life Zero<a><br>
+ • <a href="https://anilist.co/anime/4896">Umineko no Naku Koro ni<a><br>
+ • <a href="https://anilist.co/anime/128712">Tantei wa mou Shindeiru<a><br>
+ • <a href="https://anilist.co/anime/20457">Black Bullet<a><br>
+ • <a href="https://anilist.co/anime/7088">Ichiban Ushiro no Daimaou<a><br>
+ • <a href="https://anilist.co/anime/112301">Maou Gakuin no Futekigousha Shijou Saikyou no Maou no Shiso Tensei shite Shisontachi no Gakkou e Kayou<a><br>
+ • <a href="https://anilist.co/anime/101351">Happy Sugar Life<a><br>
+ • <a href="https://anilist.co/anime/101280">Tensei Shitara Slime Datta Ken<a><br>
+ • <a href="https://anilist.co/anime/19603">Fate/stay night: Unlimited Blade Works<a><br>
+ • <a href="https://anilist.co/anime/20792">Fate/stay night: Unlimited Blade Works 2nd Season<a><br>
+ • <a href="https://anilist.co/anime/356">Fate/stay night<a><br>
+ • <a href="https://anilist.co/anime/20791">Fate/stay night [Heaven's Feel] I. presage flower<a><br>
+<!-- anilist_end-->
+</details>
+
 &nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=37&multiline=true&width=1000&height=300&lines=TERIMA+KASIH+KARENA+SUDAH+MAMPIR;JANGAN+LUPA+FOLLOW+DAN+KASIH+STAR+NYA;SEMOGA+TOOLS+YANG+DISEDIAKAN+DISINI;BERMANFAAT+UNTUK+KALIAN+SEMUA;SEE+YOU.....BYE+BYE👋🏻)](https://git.io/typing-svg)
 <h1 align="center">Pemanis Banh🥵</h1>
 
@@ -183,5 +206,6 @@
 
 ![92260962_p0](https://user-images.githubusercontent.com/94946818/160676887-923463ce-97d0-4c7d-9413-2d3093c72064.jpg)
 
-------
-------
+## **Date**
+ - Minggu, 3 April 2022 11:15:32 
+------------
